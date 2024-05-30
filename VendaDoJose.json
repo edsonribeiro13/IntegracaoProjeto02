@@ -1,0 +1,22 @@
+[
+    {"nome": "Arroz", "preco": 19.89},
+    {"nome": "Feijão", "preco": 8.99},
+    {"nome": "Macarrão", "preco": 4.29},
+    {"nome": "Azeite", "preco": 16.49},
+    {"nome": "Açúcar", "preco": 2.79},
+    {"nome": "Café", "preco": 17.99},
+    {"nome": "Leite", "preco": 5.19},
+    {"nome": "Farinha", "preco": 3.49},
+    {"nome": "Sal", "preco": 1.39},
+    {"nome": "Óleo", "preco": 8.49},
+    {"nome": "Manteiga", "preco": 6.99},
+    {"nome": "Pão", "preco": 5.79},
+    {"nome": "Queijo", "preco": 24.99},
+    {"nome": "Presunto", "preco": 21.89},
+    {"nome": "Frango", "preco": 13.59},
+    {"nome": "Carne", "preco": 28.99},
+    {"nome": "Peixe", "preco": 31.49},
+    {"nome": "Tomate", "preco": 5.19},
+    {"nome": "Batata", "preco": 3.79},
+    {"nome": "Cebola", "preco": 3.29}
+]
